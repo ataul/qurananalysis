@@ -16,7 +16,7 @@ class OWLMemoryOntology extends OWLOntology
 	/**
 	 * Constructor
 	 */ 
-	function OWLMemoryOntology(){
+	function __construct(){
 		
 		$this->owl_data = array();
 		$this->owl_data['classes'] = array();

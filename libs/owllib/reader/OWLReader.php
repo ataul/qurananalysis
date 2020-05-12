@@ -33,7 +33,7 @@ class OWLReader
 	/**
 	 * Constructor
 	 */
-	function OWLReader()
+	function __construct()
   {
 		$this->root_tag = new OWLTag();
    	$this->parser = xml_parser_create_ns();

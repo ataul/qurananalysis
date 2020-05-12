@@ -47,7 +47,7 @@ require_once(dirname(__FILE__)."/libs/ontology.lib.php");
 //$MODEL_CORE['SUPPORTED_LANGUAGES']=$supportedLanguages;
 
 //$MODEL_SEARCH = array();
-$//MODEL_QAC = array();
+//MODEL_QAC = array();
 $MODEL_QURANA = array();
 
 $MODEL_WORDNET = array();

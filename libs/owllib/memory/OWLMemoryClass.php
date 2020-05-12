@@ -18,7 +18,7 @@ class OWLMemoryClass extends OWLClass
 	 * @param $sub array with subclasses
 	 * 
 	 */
-	function OWLMemoryClass($id, &$model){
+	function __construct($id, &$model){
 		
 		$this->id = $id;
 		$this->model =& $model; 

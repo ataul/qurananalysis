@@ -14,7 +14,7 @@ class OWLMemoryProperty extends OWLProperty
 	/**
 	 * @return array with domain classes
 	 */
-	function OWLMemoryProperty($id, &$model)
+	function __construct($id, &$model)
 	{
 		$this->id = $id;
 		$this->model =& $model;

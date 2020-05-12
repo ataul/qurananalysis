@@ -14,7 +14,7 @@ class OWLMemoryInstance extends OWLInstance
 	/**
 	 * Return instance id
 	 */
-	function OWLMemoryInstance($id,$index, $model)
+	function __construct($id,$index, $model)
 	{
 		$this->id = $id;
 		$this->model = $model;

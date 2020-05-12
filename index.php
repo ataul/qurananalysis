@@ -45,7 +45,7 @@ $query = $_GET['q'];
 	<script type="text/javascript" src="<?=$JQUERY_TAGCLOUD_PATH?>" ></script> 
 
 
-	<link rel="stylesheet" href="/qe.style.css?bv=<?=$BUILD_VERSION?>" />
+	<link rel="stylesheet" href="qe.style.css?bv=<?=$BUILD_VERSION?>" />
 	<link rel="icon" type="image/png" href="/favicon.png">
       	 
 	<script type="text/javascript">

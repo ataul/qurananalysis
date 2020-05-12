@@ -33,18 +33,18 @@ $BUILD_VERSION = "0.1.1";
 
 
 
-$MAIN_JS_PATH = "/libs/js/main.js?bv=$BUILD_VERSION";
+$MAIN_JS_PATH = "libs/js/main.js?bv=$BUILD_VERSION";
 
 
-$JQUERY_PATH = "/libs/js/jquery/jquery-2.1.1.min.js";
+$JQUERY_PATH = "libs/js/jquery/jquery-2.1.1.min.js";
 
-$D3_PATH = "/libs/js/d3/d3.js";
+$D3_PATH = "libs/js/d3/d3.js";
 
-$JQUERY_TAGCLOUD_PATH ="/libs/js/jquery.tagcloud.js";
+$JQUERY_TAGCLOUD_PATH ="libs/js/jquery.tagcloud.js";
 
 
-$TINYSORT_PATH = "/libs/js/tinysort/tinysort.min.js";
-$TINYSORT_JQ_PATH = "/libs/js/tinysort/jquery.tinysort.min.js";
+$TINYSORT_PATH = "libs/js/tinysort/tinysort.min.js";
+$TINYSORT_JQ_PATH = "libs/js/tinysort/jquery.tinysort.min.js";
 
 /*
 $HIGHCHARTS_PATH = "/libs/js/highcharts-4-0-1/js/highcharts.js";
